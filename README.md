@@ -25,4 +25,4 @@ The code is designed to be scalable and customizable, accommodating diverse data
 #### Documentation and Comments:
 To enhance code maintainability, I have included detailed comments and documentation within the script. This documentation serves as a reference guide for users and future developers, facilitating comprehension and modifications.
 
-Overall, this meticulously developed VBA code serves as a powerful tool for financial analysts, investors, and anyone involved in stock market research. It significantly streamlines the process of data extraction and analysis, empowering users with actionable insights for informed decision-making in the dynamic world of stock trading.
+Overall, this VBA code serves as a powerful tool for financial analysts, investors, and anyone involved in stock market research. It significantly streamlines the process of data extraction and analysis, empowering users with actionable insights for informed decision-making in the dynamic world of stock trading.
