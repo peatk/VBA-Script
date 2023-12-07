@@ -26,3 +26,15 @@ The code is designed to be scalable and customizable, accommodating diverse data
 To enhance code maintainability, I have included detailed comments and documentation within the script. This documentation serves as a reference guide for users and future developers, facilitating comprehension and modifications.
 
 Overall, this VBA code serves as a powerful tool for financial analysts, investors, and anyone involved in stock market research. It significantly streamlines the process of data extraction and analysis, empowering users with actionable insights for informed decision-making in the dynamic world of stock trading.
+
+## Outputs
+#### 2018 Stock Data
+![Alt Text](https://github.com/peatk/VBA-Script/blob/main/outputs/2018_Data_Snapshot.png)
+
+#### 2019 Stock Data
+![Alt Text](https://github.com/peatk/VBA-Script/blob/main/outputs/2019_Data_Snapshot.png)
+
+#### 2020 Stock Data
+![Alt Text](https://github.com/peatk/VBA-Script/blob/main/outputs/2020_Data_Snapshot.png)
+
+
